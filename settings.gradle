@@ -1,0 +1,3 @@
+include ':kts'
+include ':app'
+rootProject.name = "PackageApk"
